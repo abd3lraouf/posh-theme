@@ -6,9 +6,8 @@
       "alignment": "left",
       "segments": [
         {
-          "background": "#575656",
+          "background": "#EF541C",
           "foreground": "#D6DEEB",
-          "leading_diamond": "\ue0b6",
           "properties": {
             "alpine": "\uf300",
             "arch": "\uf303",
